@@ -2,16 +2,16 @@
 
 *Formatting elements were designed to display special types of text:*
 
-**<b> - Bold text**<br>
-**<strong> - Important text**<br>
-**<i> - Italic text**<br>
-**<em> - Emphasized text**<br>
-**<mark> - Marked text**<br>
-**<small> - Smaller text**<br>
-**<del> - Deleted text**<br>
-**<ins> - Inserted text**<br>
-**<sub> - Subscript text**<br>
-**<sup> - Superscript text**<br>
+**<b > - Bold text**<br>
+**<strong > - Important text**<br>
+**<i > - Italic text**<br>
+**<em > - Emphasized text**<br>
+**<mark > - Marked text**<br>
+**<small > - Smaller text**<br>
+**<del > - Deleted text**<br>
+**<ins > - Inserted text**<br>
+**<sub > - Subscript text**<br>
+**<sup > - Superscript text**<br>
 
 ```
 <!DOCTYPE html>
@@ -34,7 +34,7 @@
 </body>
 </html>
 ````
-**Output**
+**Output**<br>
 This text is normal.
 
 This text is bold.
